@@ -2,5 +2,5 @@
 #include "funcs.h"
 
 void foo(){
-    printf("foo");
+    printf("hello foo");
 }
